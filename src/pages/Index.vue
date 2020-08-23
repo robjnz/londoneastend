@@ -4,7 +4,7 @@
     -->
     <div id="background" class="container m-auto">
       <h1 class="ml-6 mt-16 mb-16 text-4xl text-red-600">
-        Website Moved To www.visitlondon.life
+        Website Moved To www.visitlondon247.life
       </h1>
     
       
